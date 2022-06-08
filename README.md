@@ -1,2 +1,12 @@
-# sacode-mc-batch-1-2022
-SaCode Mentoring Class Batch 1 2022
+# DAYS
+    Day00✅
+    Day01
+    Day02
+    Day03
+    Day04
+    Day05
+    Day06
+    Day07
+    Day08
+    Day09
+    Day10
