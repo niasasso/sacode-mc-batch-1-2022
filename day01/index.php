@@ -7,3 +7,12 @@
     echo ('Hello World with <b>Echo</b>!');
 
 ?>
+
+
+<script>
+
+    function hello() {
+        alert('Hello SaCode');
+    }
+
+</script>
